@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">MyWidget</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="text">距离目标时间还有：</string>
+</resources>
